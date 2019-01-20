@@ -1,0 +1,23 @@
+{
+  "name": "webpack-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinquirk/webpack-project.git"
+  },
+  "author": "Gavin Quirk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gavinquirk/webpack-project/issues"
+  },
+  "homepage": "https://github.com/gavinquirk/webpack-project#readme",
+  "devDependencies": {
+    "webpack": "^4.29.0",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
